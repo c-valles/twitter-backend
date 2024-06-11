@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-import { commentSchema } from './Comment.js';
+import { commentSchema } from './Comments.js';
 
 // const tweetDoc = {
 //     content: newTweet,

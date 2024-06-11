@@ -1,6 +1,6 @@
 import express from "express";
 import User from "../models/User.js";
-import Tweet from "../models/Tweet.js";
+import Tweet from "../models/Tweets.js";
 
 
 const router = express.Router();
